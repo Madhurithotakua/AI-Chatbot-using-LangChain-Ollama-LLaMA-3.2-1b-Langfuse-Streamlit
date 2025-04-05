@@ -65,12 +65,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Preview
-
-(Add your screenshot here)
-
----
-
 ## 🛠 Tech Stack
 
 - LangChain  
